@@ -1,6 +1,6 @@
 # Homework 2: Flow Models & Latent Variable Models
 
-**Due April 4, 11:59pm on Blackboard**
+**Due April 5, 11:59pm on Blackboard**
 
 In this homework, you will implement and train some Flow Models as well as VAEs and variations of it. The homework consists of two components:
 

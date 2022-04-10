@@ -1,4 +1,4 @@
-# Homework 2: GANs & Diffusion Models
+# Homework 3: GANs & Diffusion Models
 
 **Due May 1, 11:59pm on Blackboard**
 
